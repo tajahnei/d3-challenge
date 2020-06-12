@@ -1,4 +1,5 @@
-# d3-challenge
+# D3-Dabbler
+![Newsroom](https://media.giphy.com/media/13XFcll1sDsRuo/giphy.gif)
  
 
 
