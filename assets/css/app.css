@@ -40,7 +40,7 @@ body {
     font: 12px sans-serif;
     color: white;
     text-align: center;
-    background: #ee6e73;
+    background: #aa35d8;
     border: 0;
     border-radius: 10px;
     transition: opacity 300ms;
@@ -52,7 +52,7 @@ body {
     display: inline;
     font-size: 20px;
     line-height: 1;
-    color: #ee6e73;
+    color: #52d484;
     content: "\25BC";
     position: absolute;
     text-align: center;
@@ -69,7 +69,7 @@ body {
   .active {
     font-weight: bold;
     /* fill: #ee6e73 */;
-    fill: #547980;
+    fill: #ab71e0;
     transition: fill 0.3s ease-out;
     text-anchor: middle;
     cursor: pointer;
@@ -84,7 +84,7 @@ body {
   }
   
   .inactive:hover {
-    fill: rgba(69, 173, 168, 0.836);
+    fill: rgba(50, 24, 197, 0.836);
     cursor: pointer;
   }
   
