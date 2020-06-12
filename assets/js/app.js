@@ -22,8 +22,7 @@ var svg = d3
   .select(".chart")
   .append("svg")
   .attr("viewBox", `0 0 ${svgWidth} ${svgHeight}`) // make svg responsive
-//.attr("width", svgWidth)
-//.attr("height", svgHeight);
+
 
 // Append an SVG group
 var chartGroup = svg.append("g")
@@ -114,7 +113,7 @@ function updateToolTip(circlesGroup, chosenXAxis, chosenYAxis) {
   }
 
   if (chosenYAxis === "healthcare") {
-    labelY = "Healthcare:";
+    labelY = " Lacks Healthcare:";
   } else if (chosenYAxis === 'smokes') {
     labelY = 'Smokes:';
   } else {
