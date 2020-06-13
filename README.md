@@ -2,6 +2,10 @@
 ![Healthcare](https://media.giphy.com/media/13XFcll1sDsRuo/giphy.gif)
  
 
+The project showcases the health risks facing particular demographics. I created a scatter plot that represents each state (abbreviation)  with circle elements.
+
+** Note: You'll need to use `python -m http.server` to run the visualization. This will host the page at `localhost:8000` in your web browser. Make sure you're in the directory containing the index.html file before running the command in your terminal.
+
 
 
 
